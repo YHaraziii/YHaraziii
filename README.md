@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Yosef.haraziii@gmail.com**
 
-- 📄 Know about my experiences [https://livealbany-my.sharepoint.com/:b:/r/personal/yal-harazi_albany_edu/Documents/Yousef_Al_harazi.pdf?csf=1&web=1&e=Ua6epu](https://livealbany-my.sharepoint.com/:b:/r/personal/yal-harazi_albany_edu/Documents/Yousef_Al_harazi.pdf?csf=1&web=1&e=Ua6epu)
+- 📄 Know about my experiences <a href="https://livealbany-my.sharepoint.com/:b:/r/personal/yal-harazi_albany_edu/Documents/Yousef_Al_harazi.pdf?csf=1&web=1&e=Ua6epu">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
